@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="600" height="300"/>
 </div>
 
-##Инициализация переменных
+## Инициализация переменных
 1. Явное типизирование
    ```
    int a=5;
